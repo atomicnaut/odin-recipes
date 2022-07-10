@@ -1,0 +1,42 @@
+* {
+    font-family: 'Verdana', sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+img {
+    height: auto;
+    width: 700px;
+    text-align: center;
+}
+
+figure img {
+    height: auto;
+    width: 500px;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    font-size: 20px;
+    color: blue;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+figcaption {
+    font-size: 12px;
+}
+
+.column {
+    column-count: 3;
+    line-height: 2;
+}
+
+ol li {
+    line-height: 1.5;
+}
